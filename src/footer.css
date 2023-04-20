@@ -1,0 +1,21 @@
+.bottom-container{
+    
+    padding: 3%;
+    padding-bottom: 2rem;
+    text-align: center;
+
+}
+.copyright{
+  color: #EEE9DA;
+  }
+  a{
+    text-decoration: none;
+    color: #0b0b0b;
+    margin: 0.625rem 1.25rem;
+  }
+  a:hover{
+    color: #EEE9DA;
+  }
+  .footer-link{
+    color: #0b0b0b;
+  }
